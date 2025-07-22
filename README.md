@@ -1,6 +1,6 @@
 # App E-Commerce Khusus SMEKAR
 
-Platform jual-beli full-stack eksklusif untuk lingkungan SMK Negeri 1 Karawang (SMEKAR).  
+Platform jual-beli full-stack eksklusif untuk lingkungan SMK Negeri 1 Karanganyar (SMEKAR).  
 Dibuat dengan Laravel + React, aplikasi ini memungkinkan siswa dan guru untuk bertransaksi secara aman dan terstruktur berdasarkan peran dan kelas.
 
 ---

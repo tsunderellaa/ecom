@@ -1,6 +1,7 @@
 # App E-Commerce Khusus SMEKAR
 
-Platform jual-beli Full-Stack khusus lingkungan SMEKAR.
+Platform jual-beli full-stack eksklusif untuk lingkungan SMK Negeri 1 Karawang (SMEKAR).  
+Dibuat dengan Laravel + React, aplikasi ini memungkinkan siswa dan guru untuk bertransaksi secara aman dan terstruktur berdasarkan peran dan kelas.
 
 ---
 
@@ -36,6 +37,8 @@ Platform jual-beli Full-Stack khusus lingkungan SMEKAR.
 - MySQL (via XAMPP & Adminer)
 - ERD Visualizer dengan [DrawSQL](https://drawsql.app)
 
+**[Complete Project Timeline](https://www.notion.so/Project-Timeline-238eb5326e73806ea1b5c263facd5344)**
+
 ---
 
 ##  🛠  Setup Lokal
@@ -43,9 +46,11 @@ Platform jual-beli Full-Stack khusus lingkungan SMEKAR.
    ```bash
    git clone https://github.com/tsunderellaa/ecom.git
    cd ecommerce
-2. **Install package**
+2. **Install package dependency**
    ```bash
-   npm i
+   composer install
+   npm install
+   cp .env.example .env
    php artisan key:generate
 3. **Jalankan Migraasi dan Seed**
    ```bash
@@ -53,7 +58,11 @@ Platform jual-beli Full-Stack khusus lingkungan SMEKAR.
 4. **Jalankan server**
    ```bash
    php artisan serve
-5. **Sightengine setup**
+5. **Jalankan React Dev Server**
+   ```bash
+   cd resource/js
+   npm run dev
+6. **Sightengine setup**
    - Dapatkan API dari [Sightengine](https://sightengine.com/)
    - Taruh API Key ke `.env`
 
@@ -66,3 +75,6 @@ Platform jual-beli Full-Stack khusus lingkungan SMEKAR.
 - Nur Azizah - Lead UI/UX Designer 
 - Vacant
 - Vacant
+
+# Lisensi
+Proyek ini dibuat untuk keperluan pembelajaran dan presentasi internal. Tidak untuk komersial.

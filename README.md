@@ -64,3 +64,5 @@ Platform jual-beli Full-Stack khusus lingkungan SMEKAR.
 - [M Arif Sulaiman](https://github.com/arfsulaiman) - Lead Front End
 - [Your Kitten ≽^-⩊-^≼](https://github.com/tsunderellaa) - Lead Back End
 - Nur Azizah - Lead UI/UX Designer 
+- Vacant
+- Vacant

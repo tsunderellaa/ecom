@@ -46,7 +46,7 @@ Dibuat dengan Laravel + React, aplikasi ini memungkinkan siswa dan guru untuk be
    ```bash
    git clone https://github.com/tsunderellaa/ecom.git
    cd ecommerce
-2. **Install package dependency**
+2. **Install dependency**
    ```bash
    composer install
    npm install
@@ -69,12 +69,12 @@ Dibuat dengan Laravel + React, aplikasi ini memungkinkan siswa dan guru untuk be
 # Credit
 
 ## Dibuat dengan ❤ oleh kelompok 4 
-- M Faris Anwar - Ketua Kelompok
-- [M Arif Sulaiman](https://github.com/arfsulaiman) - Lead Front End
-- [Your Kitten ≽^-⩊-^≼](https://github.com/tsunderellaa) - Lead Back End
-- Nur Azizah - Lead UI/UX Designer 
-- Vacant
-- Vacant
+- M Faris Anwar - Ketua Kelompok & Koordinator
+- [M Arif Sulaiman](https://github.com/arfsulaiman) - Front End
+- [Your Kitten ≽^-⩊-^≼](https://github.com/tsunderellaa) - Back End
+- Nur Azizah - UI/UX Designer 
+- Diva Firna Monica - UI/UX Designer
+- Vanessa Yuliasari - Software Tester
 
 # Lisensi
 Proyek ini dibuat untuk keperluan pembelajaran dan presentasi internal. Tidak untuk komersial.

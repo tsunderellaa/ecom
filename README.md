@@ -37,7 +37,7 @@ Dibuat dengan Laravel + React, aplikasi ini memungkinkan siswa dan guru untuk be
 - MySQL (via XAMPP & Adminer)
 - ERD Visualizer dengan [DrawSQL](https://drawsql.app)
 
-**[Complete Project Timeline](https://www.notion.so/Project-Timeline-238eb5326e73806ea1b5c263facd5344)**
+**[Complete Project Timeline](https://www.notion.so/Project-Timeline-23aeb5326e7380788012cef6d886ae21)**
 
 ---
 
